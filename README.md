@@ -5,7 +5,7 @@ A repository to ask [@sbamin](https://twitter.com/sbamin "Samir") anything. Fork
 ### Ask a question
 
 Asking a question is as easy as
-[creating a new issue](https://github.com/sbamin/ama/issues/new) on this
+[creating a new issue](https://github.com/dyndna/ama/issues/new) on this
 project.
 
 I'll try to answer it as soon as I can get to it. Once I answer I'll close the
@@ -15,7 +15,7 @@ ask a question on any old issue too, even if you didn't create it.
 
 ### Read some questions
 
-Check out the [Closed Issues](https://github.com/sbamin/ama/issues?q=is%3Aissue+is%3Aclosed)
+Check out the [Closed Issues](https://github.com/dyndna/ama/issues?q=is%3Aissue+is%3Aclosed)
 filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.
